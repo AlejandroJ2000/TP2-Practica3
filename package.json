@@ -1,0 +1,31 @@
+{
+  "name": "practica_3",
+  "version": "1.0.0",
+  "description": "Resolución del Ejemplo 3 de Ejemplos de Consigna de Parcial",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "watch": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlejandroJ2000/TP2-Practica3"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mvc"
+  ],
+  "author": "Alejandro Gabriel Jursza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroJ2000/TP2-Practica3/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
